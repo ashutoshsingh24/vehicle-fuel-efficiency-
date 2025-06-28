@@ -1,6 +1,6 @@
 # 🚗 Vehicle Fuel Efficiency Prediction
 
-This project uses **linear regression** to predict the **fuel economy (MPG)** of vehicles based on **horsepower**. It also classifies vehicles as **efficient** or **not efficient**, and evaluates the model using **accuracy** and **F1 score**.
+This project uses **linear regression** to predict the **fuel economy (MPG)** of vehicles based on **horsepower**. It also classifies vehicles as **efficient** or **not efficient**, and evaluates the model using **accuracy** and **F1 score**
 
 ---
 
